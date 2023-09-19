@@ -4,5 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Change this text with information about me and my blog.
-
+I am a senior studying Statistics at Brigham Young University. I currently work with BYU's Office of Information Technology on the data team. I enjoy playing soccer and volleyball.
