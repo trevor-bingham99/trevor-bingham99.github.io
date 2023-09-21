@@ -20,7 +20,7 @@
 
 title: Trevor's Data Science Blog
 email: tbing00g@byu.edu
-description: "Blog about stuff" 
+description: "Intro Data Science Blog" 
 baseurl:  # the name of the repository 
 url: "https://trevor-bingham99.github.io" #  change this to "https://<your-github-username>.github.io"
 image: https://source.unsplash.com/random
