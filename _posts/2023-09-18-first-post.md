@@ -2,8 +2,9 @@
 layout: post
 title:  "Data Visualization in Tableau"
 author: Trevor Bingham
-description: This post will be explaining the basics of data visualization in Tableau.
-image: "/assets/images/image5.jpg"
+description: This post will explain the basics of data visualization in Tableau.
+image: "/assets/images/fog.png"
 --- 
 
-Hello World!
+## Data Visualization
+
