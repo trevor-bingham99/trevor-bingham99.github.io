@@ -14,7 +14,7 @@ In the world today, data has become a very important factor for decision making 
 
 To begin, in Tableau, it breaks the data up into two overarching categories when listing the variables, discrete or continuous. There are many different variable types, from strings, to date, and to numbers, but they are grouped into whether they are discrete or continuous. Discrete variables are colored blue, and continuous are colored green to easily separate the two. Whether a variable is being used as a discrete or continuous variable can have a large impact on what the visualization looks like. For example, using a sample data set of superstore information, we can make a simple bar chart looking at the profit of each region. In this case, the Profit metric is a continuous variable, and we can see what that looks like here:
 
-![Continuous Profit](../assets/images/cont.jpg)
+!<img src="../assets/images/cont.jpg"/>
 
 Whereas changing the Profit metric to be a discrete variable changes the visualization to look like this:
 
