@@ -16,4 +16,8 @@ To begin, in Tableau, it breaks the data up into two overarching categories when
 ![Continuous Profit](../assets/images/cont.jpg)
 Whereas changing the Profit metric to be a discrete variable chagnes the visualization to look like this:
 ![Figure]({{site.url}}/{{site.baseurl}}/assets/images/dic.jpg)
-In this simple example you can see the impact that being either discrete or continuous can have on the visualization in Tabluea. 
+In this simple example you can see the impact that being either discrete or continuous can have on the visualization in Tabluea. In general, for discrete measures, it will treat them similar to what you would expect of a categorical variable, and have a field for each potential value of the variable. For continuous measures, it will in general treat them as the values to visualize, such as the lengths of the bar charts in the image above. So as a general rule, if you want the measure to be the value visualized, make it a continuous measure, and use discrete measures for the groupings of those metrics. 
+
+## Visualization Types
+
+In Tableau, it will always try and guess at what type of visualization you would want based off of the measures and their types that you have selected to be visualized. In the bar chart above for exmpale, selecting one discrete and one continuous measure to be visualize will default to a bar chart. Tableau offers many different types of visualizations though, and what the default brings up is not the only option. In the top right corner of Tableau, there is a button that says "Show Me" that if selected will show a list of all possible visualization options, and the requirements to use them. 
