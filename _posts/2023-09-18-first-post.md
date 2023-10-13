@@ -23,4 +23,9 @@ In this simple example you can see the impact that being either discrete or cont
 
 In Tableau, it will always try and guess at what type of visualization you would want based off of the measures and their types that you have selected to be visualized. In the bar chart above for exmpale, selecting one discrete and one continuous measure to be visualize will default to a bar chart. Tableau offers many different types of visualizations though, and what the default brings up is not the only option. In the top right corner of Tableau, there is a button that says "Show Me" that if selected will show a list of all possible visualization options, and the requirements to use them. 
 ![Visualization Options](../assets/images/show.jpg)
-In this list, it shows us the many different visualization options that are available in Tableau, and what each one requires. In the image, the symbol map is highlighted, and it shows towards the bottom that in order to utilize that visualization, you need to have at least one geographical dimension selected, with some continuous measures being an option to add on to the graphic. 
+In this list, it shows us the many different visualization options that are available in Tableau, and what each one requires. In the image, the symbol map is highlighted, and it shows towards the bottom that in order to utilize that visualization, you need to have at least one geographical dimension selected, with some continuous measures being an option to add on to the graphic. Each visualization option will have what type of measures or dimensions it requres to be selected in order to be used, letting you easily know how you can create each visualization.
+
+## Tableau Visualization Options
+
+Tableau also offers a lot of other powerful tools to help enhance your visualizations. It lets you change the color of elements in the visualizations, it allows you to change the size of different elements, and it allows you to edit the text of the visualization, as well as letting you add more detail, and information to a tooltip when you hover over something. 
+![Enhancement Options](../assets/images/options.jpg)
