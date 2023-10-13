@@ -22,3 +22,5 @@ In this simple example you can see the impact that being either discrete or cont
 ## Visualization Types
 
 In Tableau, it will always try and guess at what type of visualization you would want based off of the measures and their types that you have selected to be visualized. In the bar chart above for exmpale, selecting one discrete and one continuous measure to be visualize will default to a bar chart. Tableau offers many different types of visualizations though, and what the default brings up is not the only option. In the top right corner of Tableau, there is a button that says "Show Me" that if selected will show a list of all possible visualization options, and the requirements to use them. 
+![Visualization Options](../assets/images/show.jpg)
+In this list, it shows us the many different visualization options that are available in Tableau, and what each one requires. In the image, the symbol map is highlighted, and it shows towards the bottom that in order to utilize that visualization, you need to have at least one geographical dimension selected, with some continuous measures being an option to add on to the graphic. 
