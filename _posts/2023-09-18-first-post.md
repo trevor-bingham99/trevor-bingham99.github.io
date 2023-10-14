@@ -8,7 +8,9 @@ image: "../assets/images/fog.png"
 
 ## Data Visualization
 
-In the world today, data has become a very important factor for decision making in many industries. It can be difficult to communicate this data to a wide audience, especially when the data is complex and vast. This is where data visualization comes into play, facilitating the communication of data in meaningful and impactful ways, so that your audience can understand and interpret the data. In data visualization, there is a wide selection of different types of visualizations and even more tools to make these visualizations. In this blog, we will be focusing on one tool, Tableau, and why it is an excellent choice for data visualization. Tableau is a very powerful tool for data visualization, and has many amazing features that make visualizing your data so much more powerful, as well as being very intuitive and easy to use and learn. We will explore the basics of these features and how to use them to build amazing visualizations throughout this blog.
+In the world today, data has become a very important factor for decision making in many industries. It can be difficult to communicate this data to a wide audience, especially when the data is complex and vast. This is where data visualization comes into play, facilitating the communication of data in meaningful and impactful ways, so that your audience can understand and interpret the data. 
+
+In data visualization, there is a wide selection of different types of visualizations and even more tools to make these visualizations. In this blog, we will be focusing on one tool, Tableau, and why it is an excellent choice for data visualization. Tableau is a very powerful tool for data visualization, and has many amazing features that make visualizing your data so much more powerful, as well as being very intuitive and easy to use and learn. We will explore the basics of these features and how to use them to build amazing visualizations throughout this blog.
 
 ## Tableau Basics
 
@@ -18,7 +20,7 @@ To begin, in Tableau, it breaks the data up into two overarching categories when
 
 Whereas changing the Profit metric to be a discrete variable changes the visualization to look like this:
 
-![Continuous Profit](../assets/images/disc.jpg)
+![Continuous Profit]({{site.url}}/{{site.baseurl}}/assets/images/disc.jpg)
 
 In this simple example you can see the impact that being either discrete or continuous can have on the visualization in Tableau. In general, for discrete measures, it will treat them similar to what you would expect of a categorical variable, and have a field for each potential value of the variable. For continuous measures, it will in general treat them as the values to visualize, such as the lengths of the bar charts in the image above. So as a general rule, if you want the measure to be the value visualized, make it a continuous measure, and use discrete measures for the groupings of those metrics. 
 
@@ -42,4 +44,4 @@ If you want to just edit what is already there without adding anything else, you
 
 ## Conclusion
 
-In this article, we barely scratched the surface of what all Tableau can do to facilitate making data visualizations and enhance them in simple ways. It is a powerful tool to use, and the way that it is set up makes it very easy to learn, and intuitive to use, making Tableau a great tool out of the many other options. 
+In this article, we have barely scratched the surface of what all Tableau can do to facilitate making data visualizations and enhance them in simple ways. It is a powerful tool to use, and the way that it is set up makes it very easy to learn, and intuitive to use, making Tableau a great tool out of the many other options. I would encourage everyone who reads this to try using it, and explore all the many options and tools it has to create some amazing data visualizations. You can also go [here](https://www.tableau.com/data-insights/dashboard-showcase) to see some great examples of what all is possible in data visualization using Tableau.
