@@ -14,4 +14,10 @@ They have a convient page that lets you download it in a format of your choice, 
 
 ## About the Data
 
-The data set we are loading in has multiple columns, that have a lot of intersting information is contained within. There is information the shape of the house, the location, the price, the square footage, the year built, the type of dwelling, the acreage of the property, and more. So with this, there is a lot of interesting things to look into
+The data set we are loading in has multiple columns, that have a lot of intersting information is contained within. There is information the shape of the house, the location, the price, the square footage, the year built, the type of dwelling, the acreage of the property, and more. So with this, there is a lot of interesting things to look into, which you can see how I do in [this]() blog post. 
+
+One thing to note about how I have collected the data, for the data collected via selenium and the JSON URl, I only got a portion of the data to load, as to scrape it all with Selenium would take hours with how I was able to get it to work. Because of this, we do need to keep in mind that the data will most likely not be totally representative of the data as a whole, but can still be used to gain some basic insights into the data. 
+
+## Ehtical Concerns
+
+For this all data we collect and use, we want to make sure it is in line with ethical principles and practices. In this case, the site is a site dedicated to having publicly available data, and as of when I wrote this post and did this analysis, there were no restrictions in the robots.txt file for the site that would impact the data. Due to this, we can feel confident that our data is good to use, and does not go raise any ethical concerns. 
