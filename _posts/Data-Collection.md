@@ -14,4 +14,4 @@ They have a convient page that lets you download it in a format of your choice, 
 
 ## About the Data
 
-The data set we are loading in has multiple columns, that have a lot fo intersting 
+The data set we are loading in has multiple columns, that have a lot of intersting information is contained within. There is information the shape of the house, the location, the price, the square footage, the year built, the type of dwelling, the acreage of the property, and more. So with this, there is a lot of interesting things to look into
